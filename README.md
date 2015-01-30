@@ -1,5 +1,9 @@
 # H5P.Plugins.maps.BaiDu
 该工程为HTML5 plus 百度地图插件实现,参见https://github.com/dcloudio/H5P.Core
+# 目录结构
+ Android Android地图插件Native层实现
+ iOS iOS地图插件Native层实现
+ js 地图插件JS Api实现
 #集成步骤
 iOS:<br/>
 准备工作:<br/>
