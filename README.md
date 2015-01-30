@@ -5,11 +5,10 @@
  iOS iOS地图插件Native层实现<br/>
  js 地图插件JS Api实现<br/><br/>
 #集成步骤
-iOS:<br/>
 准备工作:<br/>
 1. 去 [百度LBS开放平台](http://developer.baidu.com/map/)申请Appkey<br/>
 2. 下载运行环境https://github.com/dcloudio/H5P.Core<br/>
-配置:<br/>
+iOS配置:<br/>
 1. 使用XCode打开Pandora.xcodeproj,新建类型为CocoaTouch Static Library的 target<br/>
 2. 将本工程中src添加到新建的target<br/>
 3. 拷贝libs目录下库文件到Pandora工程libs目录下<br/>
