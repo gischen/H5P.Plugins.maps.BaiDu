@@ -1,0 +1,9 @@
+<properties>
+	<features>
+		<feature name="UI" value="io.dcloud.feature.ui.UIFeatureImpl"></feature>
+		<feature name="Runtime" value="io.dcloud.feature.pdr.RuntimeFeatureImpl"></feature>
+		<feature name="Maps" value="io.dcloud.js.map.JsMapPluginImpl"></feature>
+	</features>	
+	<services>
+	</services>
+</properties>
