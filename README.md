@@ -15,4 +15,6 @@ iOS配置:<br/>
 4. Pandora.xcodeproj添加宏定义 PDR_PLUS_MAP 添加百度库到编译选项中,引入新建target依赖<br/>
 5. 在info.plist 中添加key为baidu的项类型为Dictionary，在Dictionary中添加key为appkey项目取值为申请的百度appkey
 
-  
+License
+-------
+遵循MIT License；
